@@ -1,0 +1,10 @@
+data/*
+checkpoint-airplane/
+ckpt
+darkflow-source/
+ogs_corrected.zip
+venv-old/
+sunlight/
+*.weights
+*.meta
+*.pb
