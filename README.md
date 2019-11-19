@@ -11,3 +11,6 @@ Training scripts ([cfg-name] = "darkflow-ogar-load")
 - train-ogar-load.sh to continue that training session
 - keyboard interrupt (ctrl-c) to stop trainin at any point
 - save-pb-sh to generate built_graph/[cfg-name].pb and built_graph/[cfg-name].meta
+
+### Notes ###
+As of Nov. 19 2019, the darkflow-ogar-loadweights.cfg config file represents the most recent and most successful training run. This corresponds with train-ogar-load-init.sh and train-ogar-load.sh
